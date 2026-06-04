@@ -56,10 +56,6 @@ Customer data management and record viewing.
 
 Security improvement after CIA Triad analysis.
 
-### Database Structure
-
-Overview of the relational database structure.
-
 ### Transaction Records (Database View)
 
 Example transaction data stored in the system database.
